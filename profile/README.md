@@ -38,6 +38,7 @@
 | Repository | Description |
 |------------|-------------|
 | [macgit](https://github.com/Commit-Plus/macgit) | The main Commit+ application source code |
+| [doc-page](https://github.com/Commit-Plus/doc-page) | Commit+ documentation site |
 
 ## Get Started
 
