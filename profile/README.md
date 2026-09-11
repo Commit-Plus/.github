@@ -1,5 +1,5 @@
 <p align="center">
-  <img src=".github/assets/logo.png" width="128" height="128" alt="Commit+">
+  <img src="https://raw.githubusercontent.com/Commit-Plus/.github/main/.github/assets/logo.png" width="128" height="128" alt="Commit+">
 </p>
 
 <h1 align="center">Commit+</h1>
@@ -13,9 +13,9 @@
 
 <p align="center">
   <picture>
-    <source media="(prefers-color-scheme: dark)" srcset=".github/assets/dark-commit-plus.png">
-    <source media="(prefers-color-scheme: light)" srcset=".github/assets/commit-plus.png">
-    <img alt="Commit+ Git client for macOS" src=".github/assets/commit-plus.png" width="800">
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Commit-Plus/.github/main/.github/assets/dark-commit-plus.png">
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Commit-Plus/.github/main/.github/assets/commit-plus.png">
+    <img alt="Commit+ Git client for macOS" src="https://raw.githubusercontent.com/Commit-Plus/.github/main/.github/assets/commit-plus.png" width="800">
   </picture>
 </p>
 
