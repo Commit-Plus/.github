@@ -37,19 +37,19 @@
 
 | Repository | Description |
 |------------|-------------|
-| [macgit](https://github.com/Commit-Plus/macgit) | The main Commit+ application source code |
+| [commit-plus](https://github.com/Commit-Plus/commit-plus) | The main Commit+ application source code |
 | [doc-page](https://github.com/Commit-Plus/doc-page) | Commit+ documentation site (Mintlify) |
 
 ## Get Started
 
-Download the latest release from [macgit/releases](https://github.com/Commit-Plus/macgit/releases/latest), or build from source with Xcode 26.2+.
+Download the latest release from [commit-plus/releases](https://github.com/Commit-Plus/commit-plus/releases/latest), or build from source with Xcode 26.2+.
 
 **Requirements:** macOS 26.2+, Git installed on the system.
 
 ## Contributing
 
-We welcome contributions! Please see [CONTRIBUTING.md](https://github.com/Commit-Plus/macgit/blob/main/CONTRIBUTING.md) in the macgit repo for setup instructions and guidelines.
+We welcome contributions! Please see [CONTRIBUTING.md](https://github.com/Commit-Plus/commit-plus/blob/main/CONTRIBUTING.md) in the commit-plus repo for setup instructions and guidelines.
 
 ## License
 
-Commit+ is licensed under the [GNU Affero General Public License v3.0 (AGPLv3)](https://github.com/Commit-Plus/macgit/blob/main/LICENSE).
+Commit+ is licensed under the [GNU Affero General Public License v3.0 (AGPLv3)](https://github.com/Commit-Plus/commit-plus/blob/main/LICENSE).
